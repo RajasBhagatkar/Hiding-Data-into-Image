@@ -10,3 +10,7 @@ When we open an Image in Hex-Editor we are going to see an special thing that al
 ![image](https://user-images.githubusercontent.com/89124523/134191472-23bdd04e-498e-469f-9af1-5cd8b931ad82.png)
 
 So any thhing that we enter after the "FFD9" sequece does not matter becuz this basically means that they should stop at this point 
+
+
+# reference:
+https://www.file-recovery.com/jpg-signature-format.htm
